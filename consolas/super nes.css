@@ -1,0 +1,41 @@
+.navegacion{
+	margin-top: 0px;
+}
+
+#nes{
+	margin: 0px 0px 0px 0px;
+	background-color: red;
+	padding: 50px 0px 50px 20px;
+	font-family: arial;
+	font-weight: bold;
+	color: white;
+}
+
+.texto{
+	margin: -155px 100px 0px 600px;
+	font-size: 30px;
+	padding: 0px 0px 0px 0px;
+	position: absolute;
+}
+
+#contenido{
+	margin: 30px 0px 0px 0px;
+	background-color: #FF1822;
+}
+
+h2{
+	padding: 50px 0px 50px 0px;
+	font-size: 50px;
+	color: white;
+	font-weight: bold;
+	font-family: arial;
+}
+
+#textoContenido{
+	margin: 0px 200px 0px 200px;
+	padding: 0px 0px 100px 0px;
+}
+
+#logo{
+	padding: 120px 0px 110px 0px;
+}

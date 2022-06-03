@@ -1,0 +1,63 @@
+.navegacion{
+	margin-top: -100px;
+}
+
+.acomodo1{
+	margin: 100px 10% 0px 10%;
+}
+
+.acomodo2{
+	margin: 30px 10% 30px 10%;
+}
+
+#oled{
+	background-color: #BB0011;
+	padding: 0px 0px 70px 0px;
+	color: white;
+	font-family: arial;
+	font-size: 20px;
+}
+
+.acomodoOled p{
+	position: relative;
+	margin: 0px 20px 0px 75%;
+	padding: 5px 5px 5px 5px;
+}
+
+.acomodoOled h2{
+	margin: 10px 0px 0px 30px;
+}
+
+.acomodo3{
+	margin: 0px 829px 90px 10%;
+}
+
+.acomodo4{
+	margin: -500px 10% 50px 829px;
+}
+
+.zoom2{
+	position: absolute;
+	margin-left: 26%;
+	margin-top: -05px;
+	transition: transform .4s;
+}
+
+.zoom2:hover{
+	transform: scale(1.4);
+}
+
+.acomodo1{
+  animation-duration: 3.5s;
+  animation-name: arriba;
+}
+
+@keyframes arriba{
+  from {
+    margin: 100px 0% 0px 10%;
+  }
+
+  to {
+    margin: 100px 10% 0px 10%;
+  }
+}
