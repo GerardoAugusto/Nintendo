@@ -1,0 +1,19 @@
+.navegacion{
+	margin-top: 0px;
+}
+
+#contenido{
+	padding: 50px 0px 0px 0px;
+	margin: 0px 100px 40px 100px;
+	font-family: arial;
+	font-size: 25px;
+}
+
+#titulos{
+	font-family: arial;
+	background-color: red;
+	color: white;
+	font-size: 40px;
+	padding: 70px 0px 8px 0px;
+	margin: 0px 100px 0px 100px;
+}

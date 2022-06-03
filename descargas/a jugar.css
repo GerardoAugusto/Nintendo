@@ -1,0 +1,54 @@
+.navegacion{
+	margin-top: 0px;
+}
+
+#apartado{
+	background-color: red;
+}
+
+h1{
+	margin: 0px 0px 40px 0px;
+	padding: 100px 0px 50px 0px;
+	text-align: center;
+	color: white;
+	font-family: arial;
+	font-size: 40px;
+}
+
+#caja1{
+	width: 40%;
+	position: relative;
+	margin: 0px 0px 0px 30px;
+}
+
+#caja2{
+	width: 40%;
+	position: relative;
+	margin: -415px 0px 0px 250px;
+}
+
+#caja3{
+	width: 40%;
+	position: relative;
+	margin: 140px 0px 0px -915px;
+}
+
+#caja4{
+	width: 40%;
+	position: relative;
+	margin: -415px 0px 0px 750px;
+}
+
+#caja5{
+	width: 40%;
+	position: relative;
+	margin: 140px 0px 100px 50px;
+}
+
+.zoom{
+    transition: transform .4s;
+}
+ 
+.zoom:hover{
+    transform: scale(1.1); 
+}
