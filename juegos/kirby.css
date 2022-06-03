@@ -1,0 +1,33 @@
+#titulo{
+	background-color: red;
+	padding: 40px 0px 40px 0px;
+	font-family: arial;
+	font-size: 40px;
+	margin: 0px 0px 40px 0px;
+	text-align: center;
+	color: white;
+}
+
+#contenido{
+	font-family: arial;
+	font-size: 25px;
+	margin: 0px 15% 40px 15%;
+}
+
+#centrar{
+	margin: 60px 0px 60px 0px;
+}
+
+#jugar{
+	position: relative;
+	font-family: arial;
+	font-size: 30px;
+	color: white;
+	font-weight: bold;
+	background-color: red;
+	padding: 5px 5px 5px 5px;
+	width: 7%;
+	text-align: center;
+	margin: 0px 53% 0px 47%;
+	border-radius: 10px;
+}
