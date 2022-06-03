@@ -1,0 +1,72 @@
+#caja1{
+	width: 40%;
+	position: relative;
+	margin: 0px 0px 0px 30px;
+}
+
+#caja2{
+	width: 40%;
+	position: relative;
+	margin: -255px 0px 0px 200px;
+}
+
+#caja3{
+	width: 40%;
+	position: relative;
+	margin: 100px 0px 0px -265px;
+}
+
+#caja4{
+	width: 40%;
+	position: relative;
+	margin: -250px 0px 120px 55px;
+}
+
+#caja0{
+	width: 40%;
+	position: relative;
+	margin: 140px 0px 100px 100px;
+	border-radius: 100%;
+}
+
+#emulador{
+	background-color: red;
+	color: white;
+	font-family: arial;
+	font-size: 20px;
+	position: relative;
+	padding: 5px 5px 5px 5px;
+	width: 16.5%;
+	border-radius: 10px;
+	margin: 7px 0px 50px 125px;
+}
+
+#apartado{
+	background-color: red;
+}
+
+h1{
+	margin: 0px 0px 40px 0px;
+	padding: 100px 0px 50px 0px;
+	text-align: center;
+	color: white;
+	font-family: arial;
+	font-size: 40px;
+}
+
+.zoom2{
+	position: absolute;
+	margin: -150px 0px 0px 50px;
+	transition: transform .4s;
+}
+
+.zoom2:hover{
+	transform: scale(1.4);
+}
+
+#acomodar{
+	position: absolute;
+	margin: -200px 0px 0px 400px;
+	padding: 0px 0px 0px 0px;
+	font-size: 20px;
+}
